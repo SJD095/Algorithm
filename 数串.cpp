@@ -11,7 +11,6 @@ bool LeftGreaterThanRight(int left, int right)
 
     if(leftFirst > rightFirst)
     {
-
         return true;
     }
     else
