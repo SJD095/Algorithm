@@ -107,7 +107,6 @@ public:
                 {
                     i += 1;
                     result += 1;
-
                     break;
                 }
             }
